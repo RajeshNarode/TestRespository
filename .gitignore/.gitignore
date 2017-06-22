@@ -1,0 +1,7 @@
+<apex:page>
+  <apex:Form>
+   {!$UserInfo.getUserId}
+  
+  </apex:form>
+  
+</apex:Page>
